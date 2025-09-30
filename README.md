@@ -1,4 +1,4 @@
-# oi, eu sou a Milena! 👋
+# Oi, eu sou a Milena! 👋
 
 * Estudante de **Ciência da Computação** na UFG  
 * Javeira nata explorando o mundo Back-End 
