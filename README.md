@@ -2,7 +2,7 @@
 
 * Estudante de **Ciência da Computação** na UFG  
 * Javeira nata explorando o mundo Back-End 
-* Atualmente projetos de APIs REST com **Spring Boot** e integrações em **PostgreSQL**
+* Focada no desenvolvimento de APIs REST com **Spring Boot** e integrações em **PostgreSQL**
 
 ---
 
