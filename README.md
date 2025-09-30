@@ -14,6 +14,13 @@
 
 ---
 
+## Learning Notes/Study Guide
+
+[Spring Boot Notes](https://github.com/opmile/spring-framework)
+[PostgreSQL Notes](https://github.com/opmile/postgres)
+
+---
+
 ## Me encontre aqui:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/opmile3)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opmile)
