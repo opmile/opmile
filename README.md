@@ -17,6 +17,7 @@
 ## Learning Notes/Study Guide
 
 [Spring Boot Notes](https://github.com/opmile/spring-framework)
+
 [PostgreSQL Notes](https://github.com/opmile/postgres)
 
 ---
