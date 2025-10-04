@@ -26,6 +26,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/opmile3)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opmile)
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opmile&layout=compact&theme=dark)
+
 <!--
 **opmile/opmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
