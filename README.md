@@ -3,6 +3,7 @@
 * Estudante de **Ciência da Computação** na UFG  
 * Javeira nata explorando o mundo Back-End 
 * Focada no desenvolvimento de APIs REST com **Spring Boot** e integrações em **PostgreSQL**
+* Agora aprendendo React para integrar interface e serviços de ponta a ponta
 
 ---
 
@@ -11,6 +12,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
@@ -20,6 +22,8 @@
 
 [PostgreSQL Notes](https://github.com/opmile/postgres)
 
+[React Notes](https://github.com/opmile/react)
+
 ---
 
 ## Me encontre aqui:
@@ -27,8 +31,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opmile)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opmile&layout=compact&theme=dark)
 
 <!--
 **opmile/opmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
