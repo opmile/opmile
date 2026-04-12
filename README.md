@@ -1,8 +1,7 @@
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/opmile3)  
-
+"![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/opmile3)"
 ---
+
 
 <!--
 **opmile/opmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
