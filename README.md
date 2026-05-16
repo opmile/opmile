@@ -1,4 +1,4 @@
-[![milenapenhalves.dev](https://img.shields.io/badge/milenapenhalves.dev-09090b?style=for-the-badge&logo=vercel&logoColor=F5F5F5)](https://penhalves-dev.vercel.app/)
+
 
 <!--
 **opmile/opmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
